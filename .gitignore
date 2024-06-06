@@ -1,0 +1,26 @@
+# images 디렉토리 제외
+images/
+
+# PDF 파일 제외
+*.pdf
+
+# pycache 제외
+__pycache__/
+
+# venv 제외
+venv/
+
+# .DS_Store 제외
+.DS_Store
+
+# 임시 파일 제외
+*.tmp
+*.bak
+*.swp
+
+# pptx 파일 제외
+*.pptx
+*.ppt
+*.docx
+*.doc
+
